@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 file testing
+file untesting
 commit test
 test
 456
