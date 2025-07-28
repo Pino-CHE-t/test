@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 file testing
 file untesting
 commit test
